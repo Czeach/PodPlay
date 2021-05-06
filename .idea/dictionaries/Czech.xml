@@ -2,7 +2,10 @@
   <dictionary name="Czech">
     <words>
       <w>gson</w>
+      <w>listennotes</w>
       <w>okhttp</w>
+      <w>podcast</w>
+      <w>podcasts</w>
     </words>
   </dictionary>
 </component>

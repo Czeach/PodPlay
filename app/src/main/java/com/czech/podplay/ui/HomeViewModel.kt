@@ -1,4 +1,4 @@
-package com.czech.podplay
+package com.czech.podplay.ui
 
 import androidx.lifecycle.ViewModel
 

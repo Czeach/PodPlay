@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PodPlay</string>
+    <string name="title">Podcasts</string>
 </resources>
