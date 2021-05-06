@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PodPlay</string>
     <string name="title">Podcasts</string>
+    <string name="curated_lists">Curated Lists For You</string>
 </resources>

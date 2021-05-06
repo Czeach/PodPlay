@@ -3,7 +3,7 @@ package com.czech.podplay.models
 
 import com.google.gson.annotations.SerializedName
 
-data class CuratedLists(
+data class Curated(
     @SerializedName("curated_lists")
     val curatedLists: List<CuratedLists?>?,
     val total: Int?,
